@@ -65,6 +65,7 @@ feature branch を作成する、というワークフローを採用してい�
 == GitDOJO feature branch の Kata
 
 ローカルで feature branch を作成する、という方法を実際に試してみましょう。実習の要件としては以下です。
+
 * Numbers ファイルが編集対象となっているのは Git 道場と同様
 * ローカルで feature branch を作成して編集する
 * push の合図はしても良い

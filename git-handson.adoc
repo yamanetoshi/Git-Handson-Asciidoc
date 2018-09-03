@@ -1,6 +1,4 @@
 = Git Handson
-Toshiaki YAMANE <yamanetoshi@gmail.com>
-0.1, August 30, 2018
 :toc:
 :icons: font
 :quick-uri: https://github.com/yamanetoshi/git-handson

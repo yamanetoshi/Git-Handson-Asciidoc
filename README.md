@@ -11,4 +11,4 @@ $ bundle exec asciidoc-pdf git-handson.adoc
 ## index
 
 - [Git Handson](git-handson.adoc)
-- [なんにんかで作業するためのハンズオン](githandson2.adoc)
+- [なんにんかで作業するためのハンズオン](git-handson2.adoc)

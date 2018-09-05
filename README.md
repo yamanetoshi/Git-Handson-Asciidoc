@@ -2,11 +2,22 @@
 
 ## How to build
 
+### html
+
 ```
 $ bundle install --path vendor/bundle
-$ bundle exec asciidoc git-handson.adoc
-$ bundle exec asciidoc git-handson2.adoc
-$ bundle exec asciidoc git-handson3.adoc
+$ bundle exec asciidoctor git-handson.adoc
+$ bundle exec asciidoctor git-handson2.adoc
+$ bundle exec asciidoctor git-handson3.adoc
+```
+
+### pdf
+
+```
+$ bundle install --path vendor/bundle
+$ bundle exec asciidoctor-pdf git-handson.adoc  -r asciidoctor-pdf-cjk
+$ bundle exec asciidoctor-pdf git-handson2.adoc -r asciidoctor-pdf-cjk
+$ bundle exec asciidoctor-pdf git-handson3.adoc -r asciidoctor-pdf-cjk
 ```
 
 ## index

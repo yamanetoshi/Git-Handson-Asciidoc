@@ -12,3 +12,4 @@ $ bundle exec asciidoc-pdf git-handson.adoc
 
 - [Git Handson](git-handson.adoc)
 - [なんにんかで作業するためのハンズオン](git-handson2.adoc)
+- [Git でやり直す方法](git-handson3.adoc)

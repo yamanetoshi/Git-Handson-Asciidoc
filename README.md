@@ -5,7 +5,8 @@
 ```
 $ bundle install --path vendor/bundle
 $ bundle exec asciidoc git-handson.adoc
-$ bundle exec asciidoc-pdf git-handson.adoc
+$ bundle exec asciidoc git-handson2.adoc
+$ bundle exec asciidoc git-handson3.adoc
 ```
 
 ## index
